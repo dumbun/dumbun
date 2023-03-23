@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.dumbun.xyz/">Click to open My Portfolio</a>
 
 <a href="https://www.dumbun.xyz/">
-  ![Screenshot 2023-03-17 at 10 41 27 PM](https://user-images.githubusercontent.com/113350510/225974476-1327d744-30ca-4478-8184-b68452fad94d.png)
+  https://user-images.githubusercontent.com/113350510/225974476-1327d744-30ca-4478-8184-b68452fad94d.png
 </a>
 
 ![Screenshot 2023-03-17 at 10 41 27 PM](https://user-images.githubusercontent.com/113350510/225974476-1327d744-30ca-4478-8184-b68452fad94d.png)
