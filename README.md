@@ -29,9 +29,15 @@ You can click the Preview link to take a look at your changes.
 # 1. Portfolio
 www.dumbun.xyz
 
+# 2. [TinDog](https://dumbun.github.io/tindog/)
 
+# 3. TinDoghttps://dumbun.github.io/Random-Dicee/
+
+# 4. TinDog
+
+# 5. TinDog
 https://dumbun.github.io/tindog/
-https://dumbun.github.io/Random-Dicee/
+
 https://dumbun.github.io/Random-Dicee/
 https://dumbun.github.io/Rem-Px-Calculator/
 https://dumbun.github.io/rock-paper-scissors/
