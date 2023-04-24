@@ -18,7 +18,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <a href="https://instagram.com/iam.vamshikrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam.vamshikrishna" height="30" width="40" /></a>
       <a href="https://twitter.com/vickybaasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vickybaasha" height="30" width="40" /></a>
 </p>
----
+
 
 ### 🧰 Languages and Tools
 
